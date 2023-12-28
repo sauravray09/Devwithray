@@ -1,0 +1,16 @@
+body{
+    background-color:#EAF6F6
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width:5px;
+    width:30px;
+}
+h3,h2{
+    color: #1c6a6a;
+}
+td:hover,p:hover,h2:hover,h3:hover,li:hover{
+    color:rgb(185, 67, 67);
+}
